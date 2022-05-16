@@ -55,7 +55,7 @@ THEN I exit the application, and the HTML is generated
 ├── index.js               // runs the application
 └── package.json
 
-### Application classes
+## Application classes
 
 The application includes Employee, Manager, Engineer, and Intern classes. The tests for these classes (in the _tests_ directory) ALL pass.
 
@@ -99,7 +99,7 @@ In addition to Employee's properties and methods, Intern also have the following
 
     getRole()—overridden to return 'Intern'
 
-#### Screenshot of generated HTML
+## Screenshot of generated HTML
 
 The following image shows the generated HTML’s appearance.
 
@@ -108,7 +108,7 @@ The following image shows the generated HTML’s appearance.
 
 
 
-##### Starting the application
+## Starting the application
 
 This application uses Inquirer for collecting input from the user. The application will be invoked by using the following command:
 
@@ -122,14 +122,15 @@ npm test
 
 
 
-
-
 Jest tests ALL passing
 
 
-###### Demo video of running tests & program & output:
+## Demo video of running tests & program & output:
 
 https://user-images.githubusercontent.com/97990379/168505963-c0603394-477e-4e52-a861-3bdcfa7d900a.mov
 
 
 https://drive.google.com/file/d/1nZDFA3055h7p7UoMjjipITvIdiZe1zVE/view?usp=sharing
+
+# Website 
+https://anchoviess.github.io/Team-profile-generator/
