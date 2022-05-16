@@ -125,27 +125,4 @@ Jest tests ALL passing
 
 Demo video of running tests & program & output:
 
-
-
-Entries used in demo video
-<img width="1275" alt="[Untitled_ May 15, 2022 3_00 PM.webm.zip](https://github.com/Anchoviess/Team-profile-generator/files/8696446/Untitled_.May.15.2022.3_00.PM.webm.zip)
-Screen Shot 2022-05-15 at 5 22 11 PM" src="https://user-images.githubusercontent.com/97990379/168501148-20a80667-0ff6-4929-8617-d2efef220a00.png">
-
-
-├── Manager
-   ├── Joe
-   ├── 999
-   ├── joe@gmail.com
-   ├── 334
-├── Engineer
-   ├── Erik Williams
-   ├── 789
-   ├── epww@gmail.com
-   ├── epw80
-├── Intern
-   ├── Anthony Ledesma
-   ├── 4
-   ├── a.ledesma@gmail.com
-   ├── UCLA CODING Bootcamp
-   
-
+https://drive.google.com/file/d/1nZDFA3055h7p7UoMjjipITvIdiZe1zVE/view?usp=sharing
