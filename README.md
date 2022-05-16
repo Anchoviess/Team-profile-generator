@@ -38,7 +38,7 @@ THEN I exit the application, and the HTML is generated
 
 ## Application structure
 
-.
+
 ├── __tests__/             //jest tests
 │   ├── Employee.test.js
 │   ├── Engineer.test.js
